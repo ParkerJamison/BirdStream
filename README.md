@@ -1,1 +1,1 @@
-BIRDSTREAMPIPELINE
+Working model with imporved accuracy compared to before. Write a script to test that it works with real-video in rpiScript.py. Tempted to try and add bounding boxes to detections, but I will get the email part of this done first. 
